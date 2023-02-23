@@ -1,6 +1,6 @@
 //your code here
-console.log("github");
-const pageNumberH3 = document.getElementById("pageNumber");
+// console.log("github");
+const pageNumberH3 = document.getElementById("PageNumber");
 var pageNumber = 1;
 
 async function fetchData(pageNumber) {
